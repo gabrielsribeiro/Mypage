@@ -1,4 +1,42 @@
-html, body {
-  height: 100%;
-  width: 100%;
-}
+body{background:#ffffff ;}
+section {text-align:center;}
+header{text-align:center;}
+article{text-align:center;}
+h2 {text-align:center;}
+h3 {text-align:center;}
+footer{text-align:center;}
+img{text-align:center; background: slateblue;}
+img{padding: 5px 15px 5px 15px;
+ margin: 0 10px 0 10px;}
+
+       
+
+
+
+h1{font-size: 300%;}
+h2{font-size: 500%;}
+h3{font-size: 300%;}
+h4{font-size: 500%;}
+article{font-size: 140%;}
+section{font-size: 140%;}
+header{font-size: 140%;}
+
+
+h1{color: black ;}
+h2{color: black ;}
+h3{color: black ;}
+footer{color: black ;}
+article{color: black ;}
+header{color: black ;}
+section{color: black ;}
+.perfil{border-radius:50%;}
+
+
+
+
+
+
+
+
+
+
